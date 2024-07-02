@@ -4,12 +4,12 @@ We need to predict the demand for the next 24 hours by utilizing past electricit
 
 #### Inputs: 
 
-- Excel file containing all drivers
+- sample data.csv is attached. 
 
 
 ### Output: 
 
-A 24-hour demand forecast for a sample day
+A 24-hour demand forecast for a sample day in July or August. 
 
   
 ## General Requirements
