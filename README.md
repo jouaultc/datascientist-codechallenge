@@ -1,6 +1,6 @@
 # Data Scientist - Code Challenge
 
-We need to predict the demand for the next 24 hours by utilizing past electricity demand data points, humidity, temperature, dew point, and other drivers like weekdays, holidays, and etc. The accuracy of this model is so critical (Accuracy > 0.95 for a sample day is acceptable, or AE < 700 in july or august months)
+We need to predict the demand for the next 24 hours by utilizing past electricity demand data points, humidity, temperature, dew point, and other drivers like weekdays, holidays, and etc. 
 
 #### Inputs: 
 
